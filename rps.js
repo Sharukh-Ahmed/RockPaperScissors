@@ -1,5 +1,4 @@
 let userscore = 0;
-
 let compscore = 0;
 let msg = document.querySelector("#msg");
 let userScore = document.querySelector("#user-score"); 
